@@ -1,0 +1,21 @@
+{
+  "name": "",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^4.5.5",
+    "gl-matrix": "^3.4.3",
+    "tweakpane": "^4.0.3",
+    "vite-plugin-glsl": "^1.2.1"
+  },
+  "devDependencies": {
+    "sass": "^1.72.0"
+  }
+}
